@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8287d71-4602-40d1-a7c3-178d17ba5a30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/implementation/linkedlist/LinkedList.java" afterDir="false" />
+    <list default="true" id="e8287d71-4602-40d1-a7c3-178d17ba5a30" name="Changes" comment="add insert using recursion function and implement a custom linked list">
+      <change afterPath="$PROJECT_DIR$/src/problems/leetcode/Problem83.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.LinkedListMain">
+}</component>
+  <component name="RunManager" selected="Application.Problem83">
     <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="drivercode.LinkedListMain" />
       <module name="com.github.anuragxone.dsapractice" />
@@ -59,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.leetcode.Problem83" />
+      <module name="com.github.anuragxone.dsapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem83" />
         <item itemvalue="Application.LinkedListMain" />
         <item itemvalue="Application.Main" />
       </list>
@@ -75,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662362828138</updated>
     </task>
+    <task id="LOCAL-00001" summary="add insert using recursion function and implement a custom linked list">
+      <created>1662365325191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662365325191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +109,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add insert using recursion function and implement a custom linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="add insert using recursion function and implement a custom linked list" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problems/leetcode/Problem83.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
