@@ -2,7 +2,7 @@ package problems.leetcode;
 
 public class Problem83 {
 
-    public static void displaySinglyLinkedList(ListNode head) {
+    static void displaySinglyLinkedList(ListNode head) {
         ListNode pointer = head;
         while (pointer != null) {
             System.out.print(pointer.val + " -> ");
