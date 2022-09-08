@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8287d71-4602-40d1-a7c3-178d17ba5a30" name="Changes" comment="leetcode: problem83">
-      <change afterPath="$PROJECT_DIR$/src/problems/leetcode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/leetcode/Problem21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/drivercode/LinkedListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drivercode/LinkedListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leetcode/Problem83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/leetcode/Problem83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/leetcode/Problem141.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Problem21">
+  <component name="RunManager" selected="Application.Problem141">
     <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="drivercode.LinkedListMain" />
       <module name="com.github.anuragxone.dsapractice" />
@@ -58,6 +54,19 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="com.github.anuragxone.dsapractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.leetcode.Problem141" />
+      <module name="com.github.anuragxone.dsapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem141" />
         <item itemvalue="Application.Problem21" />
         <item itemvalue="Application.LinkedListMain" />
         <item itemvalue="Application.Problem83" />
